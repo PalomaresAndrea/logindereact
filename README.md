@@ -43,5 +43,5 @@ Para desplejar el proyecto en tu navegador web favorito deberas colocar el sigui
 
 # 🗿 Grupo
 GDS0551
-#  Alumno
+#  Alumna
 Schoenstantt Andrea Palomares Barrientos 
